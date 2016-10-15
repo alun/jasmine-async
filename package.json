@@ -1,0 +1,26 @@
+{
+  "name": "jasmine-async",
+  "version": "1.0.0",
+  "description": "Adds support for passing ES6 generators in jasmine tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alun/jasmine-async.git"
+  },
+  "keywords": [
+    "jasmine",
+    "generators"
+  ],
+  "author": "Aleksei Lunacharskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alun/jasmine-async/issues"
+  },
+  "homepage": "https://github.com/alun/jasmine-async#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
