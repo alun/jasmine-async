@@ -1,6 +1,6 @@
 {
   "name": "jasmine-async",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds support for passing ES6 generators in jasmine tests",
   "main": "src/index.js",
   "scripts": {
